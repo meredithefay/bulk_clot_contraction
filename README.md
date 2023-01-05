@@ -5,4 +5,4 @@ The Lam lab/Myers lab bulk clot contraction assay analyzes time series images of
 
 My contribution: sole developer of standalone application.
 
-Standalone version v0.1.0 is available upon request, please email me at meredith.e.fay@gmail.com for files for Mac (.app) or Windows OS (.exe) and associated test data. Experimental methods available upon request. This standalone application will eventually be expanded upon and published as part of a platelet assay analysis toolkit.
+Source code is provided here. Files are packaged into a standalone application natively using Pyinstaller. Standalone version v0.1.0 is available upon request, please email me at meredith.e.fay@gmail.com for files for Mac (.app) or Windows OS (.exe) and associated test data. Experimental methods available upon request. This standalone application will eventually be expanded upon and published as part of a platelet assay analysis toolkit.
